@@ -14,7 +14,7 @@ steps:
   displayName: 'Stop Azure App Service: FirstWebAppInAzurePortal'
   inputs:
     azureSubscription: DotNetWebSPN
-    Action: "Stop"
+    Action: "Stop Azure App Service"
     WebAppName: FirstWebAppInAzurePortal
     SpecifySlotOrASE: true
     ResourceGroupName: dotnetweb
