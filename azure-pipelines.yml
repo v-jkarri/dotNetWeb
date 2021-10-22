@@ -17,7 +17,7 @@ steps:
     Action: "Stop Azure App Service"
     WebAppName: FirstWebAppInAzurePortal
     ResourceGroupName: dotnetweb
-    SpecifySlotOrASE: true
+    SpecifySlot: true
     Slot: "UAT"
 
 
