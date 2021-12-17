@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
-        <p class="lead">First app in Git Hub SLot UAT then PROD changes</p>
+        <p class="lead">First app in Git Hub SLot UAT then PROD changes to new</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
